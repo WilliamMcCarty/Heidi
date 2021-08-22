@@ -1,0 +1,13 @@
+﻿.footer {
+    font-size: 20px;
+}
+
+.textShadow {
+    text-shadow: 2px 4px 5px darkgray;
+}
+
+.boxShadow {
+    box-shadow: 2px 4px 5px darkgray;
+    border: solid;
+    border-color: darkseagreen
+}
