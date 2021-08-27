@@ -6,8 +6,60 @@
     text-shadow: 2px 4px 5px darkgray;
 }
 
+.textsize {
+    font-size: 18px;
+}
+
 .boxShadow {
     box-shadow: 2px 4px 5px darkgray;
-    border: solid;
+    border: solid 8px;
     border-color: darkseagreen
+}
+
+.thumb {
+    cursor: pointer;
+    width: 100%;
+    max-width: 60px;
+    /*float: left;*/
+    /*margin: 0 40px 20px 0;*/
+    border-radius: 80px;
+    /*border: 0.3rem solid darkseagreen;*/
+    /*border: 0.5rem solid rgba(255, 255, 255, 0.2);*/
+    /*box-shadow: 7px 5px 5px #999;*/
+    /*cursor: pointer;
+    max-width: 60%;*/
+    box-shadow: 2px 4px 5px darkgray;
+    border: solid 8px;
+    border-color: darkseagreen
+}
+
+#lightbox-container {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.8);
+    text-align: center;
+    padding-top: 65px;
+    display: none;
+}
+
+    #lightbox-container p {
+        color: #fff;
+    }
+
+#lightbox-content img {
+    border: 10px solid darkseagreen;
+    margin: auto;
+    border-radius: 100px;
+    box-shadow: 7px 5px 5px gray;
+}
+
+.lightBoxClick {
+    font-size: 20px;
+}
+
+.maxsize {
+    max-height: 450px
 }

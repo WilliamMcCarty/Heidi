@@ -77,6 +77,16 @@
     <Content Include="favicon-32x32.png" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="img\cammonkey.jpg" />
+    <Content Include="img\captaintryingtosleep.jpg" />
+    <Content Include="img\peaches1.jpg" />
+    <Content Include="img\peaches2.jpg" />
+    <Content Include="img\peaches3.jpg" />
+    <Content Include="img\peaches4.jpg" />
+    <Content Include="img\Peaches5.jpg" />
+    <Content Include="img\peachesprofile.jpg" />
+    <Content Include="captain.html" />
+    <Content Include="peaches.html" />
     <Content Include="img\banner1.jpg" />
     <Content Include="img\banner2.jpg" />
     <Content Include="img\Banner3.jpg" />
@@ -85,16 +95,27 @@
     <Content Include="img\carousel1.jpg" />
     <Content Include="img\carousel2.jpg" />
     <Content Include="img\carousel3.jpg" />
+    <Content Include="img\heidieatingbreakfast.jpg" />
+    <Content Include="img\heidifloor.jpg" />
+    <Content Include="img\heidigrandma1.jpg" />
+    <Content Include="img\heidigrandma2.jpg" />
+    <Content Include="img\heidigrandma3.jpg" />
     <Content Include="img\HeidiMainPic.jpg" />
+    <Content Include="img\heidiprofile.jpg" />
+    <Content Include="img\heidisleepingbed.jpg" />
     <Content Include="img\PeachesMainPic.jpg" />
     <Content Include="img\pic1.jpg" />
     <Content Include="img\pic2.jpg" />
     <Content Include="img\pic3.jpg" />
+    <Content Include="heidi.html" />
+    <Content Include="img\waitingagain.jpg" />
+    <Content Include="img\waitingforgrandma.jpg" />
     <Content Include="index.html" />
     <Content Include="js\bootshape.js" />
     <Content Include="js\bootstrap.js" />
     <Content Include="js\bootstrap.min.js" />
     <Content Include="js\jquery.js" />
+    <Content Include="js\main.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

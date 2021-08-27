@@ -17,6 +17,7 @@ body {
     padding: 40px 0;
 }
 .thumbnail > img {
+    cursor: pointer;
     max-width: 60%;
 }
 .footer {
